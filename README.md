@@ -45,8 +45,10 @@ I have signed to this opportunity as I still have no experience working for larg
 
 I love creating games and use javascript for this. Please check the small snake game created below
 
+<html>
 <iframe
   width="400"
   height="400"
   src="https://francobarreto.neocities.org/games/snake2">
 </iframe>
+</html>
