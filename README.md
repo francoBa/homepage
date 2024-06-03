@@ -40,3 +40,13 @@ I have signed to this opportunity as I still have no experience working for larg
 >
 > Global-Remote | _Binance_: Binance is a top crypto company for trading.
 > I have worked with a small application support team for production. We used to check services status. background tasks and daily issues as well as documenting procedures. Conduct escalations and production changes. Throughout daily meetings we push for a better support quality withing the different applications and providing enhancements improvements
+
+## Additional Information
+
+I love creating games and use javascript for this. Please check the small snake game created below
+
+<iframe
+  width="400"
+  height="400"
+  src="https://francobarreto.neocities.org/games/snake2">
+</iframe>
