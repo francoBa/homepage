@@ -24,3 +24,19 @@ I have signed to this opportunity as I still have no experience working for larg
 - ( **&#120102;&#120107;** ) linkedIn: [francobar](https://linkedin.com/in/francobar)
 - &#128247; instagram: [francbarret](https://www.instagram.com/francbarret)
 - ( **&#102;** ) facebook: [fra.barr](https://facebook.com/fra.barr)
+
+## Timeline
+
+<!-- #FFFFFF -->
+
+<!-- > [Note] -->
+
+> ### 2019-Now | `Web apps developer`
+>
+> Argentina | _Libros Libertad S.A.S_: Libros Libertad is a small bookstore family company.
+> I have developed small apps inside Microsoft Excel then moved to javascript apps inside Google Sheets and outside Google with google apis. At the moment I'm currently developing a full web app from scratch and running from docker and cloudflare
+
+> ### 2021-2022 | `Senior Application Support`
+>
+> Global-Remote | _Binance_: Binance is a top crypto company for trading.
+> I have worked with a small application support team for production. We used to check services status. background tasks and daily issues as well as documenting procedures. Conduct escalations and production changes. Throughout daily meetings we push for a better support quality withing the different applications and providing enhancements improvements
